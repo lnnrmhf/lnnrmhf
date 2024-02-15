@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 🫶
+I am new to GitHub and am excited to learn and expand my skills! 
 
 <!--
 **lnnrmhf/lnnrmhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
