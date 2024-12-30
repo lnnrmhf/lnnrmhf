@@ -21,16 +21,18 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lnnrmhf&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🗒️ GitHub Stats:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
 
 
----
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 I am a bachelor student of astronomy in Vienna and passionate about astrophysics and coding!
+<br> 
 <br> 
 <img align="right" height="250" src="https://github.com/user-attachments/assets/c69d8a81-818d-4e41-9e5a-dbc47819f577"  />
 
@@ -47,7 +49,7 @@ I am a bachelor student of astronomy in Vienna and passionate about astrophysics
 
 <br> 
 
-## 🗒️ GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=lnnrmhf&theme=rose&hide_border=true&include_all_commits=false&count_private=false)
 ---
 [![](https://visitcount.itsvg.in/api?id=lnnrmhf&icon=7&color=10)](https://visitcount.itsvg.in)
