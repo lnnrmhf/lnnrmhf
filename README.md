@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 # 💫 About Me:
 🔭 I’m currently doing my Bachelor's degree in astronomy <br>🌱 I’m currently learning C++
@@ -29,4 +30,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=lnnrmhf&icon=7&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
