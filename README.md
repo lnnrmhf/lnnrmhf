@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello :) 
 
 <!--
 **lnnrmhf/lnnrmhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently doing my Bachelor's degree in astronomy <br>🌱 I’m currently learning C++
+🔭 I’m currently doing my Bachelor's degree in astronomy <br> 🌱 I’m currently learning C++
+- 📫 How to reach me: lena.einramhof@gmail.com
+- 😄 Pronouns: she/her
 
 
 # 💻 Tech Stack:
