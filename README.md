@@ -50,8 +50,4 @@ I am a bachelor student of astronomy in Vienna and passionate about astrophysics
 <br> 
 
 
-![](https://github-readme-stats.vercel.app/api?username=lnnrmhf&theme=rose&hide_border=true&include_all_commits=false&count_private=false)
----
-[![](https://visitcount.itsvg.in/api?id=lnnrmhf&icon=7&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
