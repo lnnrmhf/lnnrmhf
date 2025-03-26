@@ -38,8 +38,7 @@ I am a bachelor student of astronomy in Vienna and passionate about astrophysics
 
 ## About Me: 
 🪐 I have started learning Python in 2023 <br>
-🌱 I am currently learning C++ <br> 
-✨ In my freetime I like to bake, analyze theatre and pet this cat <br>
+🌱 I am currently learning C++ <br> <!--  ✨ In my freetime I like to bake, analyze theatre and pet this cat <br> --> 
 🌸 Pronouns: she/her
 
 <br> 
