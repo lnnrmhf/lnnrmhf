@@ -36,7 +36,7 @@ I am a bachelor student of astronomy in Vienna and passionate about astrophysics
 <img align="right" height="250" src="https://github.com/user-attachments/assets/c69d8a81-818d-4e41-9e5a-dbc47819f577"  />
 <br> 
 
-## 💫 About Me: 
+## About Me: 
 🪐 I have started learning Python in 2023 <br>
 🌱 I am currently learning C++ <br> 
 ✨ In my freetime I like to bake, analyze theatre and pet this cat <br>
@@ -44,7 +44,7 @@ I am a bachelor student of astronomy in Vienna and passionate about astrophysics
 
 <br> 
 
-## 💕 Languages:
+## Languages:
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 <br> 
