@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-I am a bachelor student of astronomy in Vienna and passionate about astrophysics and coding!
+I am a master student of astronomy in Vienna and passionate about astrophysics and coding!
 <br> 
 <img align="right" height="250" src="https://github.com/user-attachments/assets/c69d8a81-818d-4e41-9e5a-dbc47819f577"  />
 <br> 
