@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-I am a Master's student of Astronomy at the University of Vienna with a strong interest in computational cosmology and data analysis. I am particularly enthusiastic about
+I am a Masters student of Astronomy at the University of Vienna with a strong interest in computational cosmology and data analysis. I am particularly enthusiastic about
 combining large-scale data analysis with physical insight into the large-scale structure of the Universe and its evolution.
 <!--
 <br> 
@@ -41,7 +41,7 @@ combining large-scale data analysis with physical insight into the large-scale s
 
 
 ## About Me: 
-- 🪐 Master’s student in Astronomy (University of Vienna)  
+- 🪐 Masters student in Astronomy (University of Vienna)  
 - 🌌 Interested in cosmology, reionization and large-scale structure  
 - 💻 Focused on large-scale data analysis and simulation-based research  
 - ✨ Currently involved in research within the Data Science in Astrophysics and Cosmology group at the University of Vienna  
