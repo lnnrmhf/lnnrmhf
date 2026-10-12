@@ -60,7 +60,7 @@ Primary focus on Python-based data analysis, with additional experience in C++, 
 </p>
 
 <p align="center">
-  <em>Formation of the cosmic web from an initially uniform density field.</em>
+  <em>Formation of the cosmic web through linear displacement from an initially uniform density field.</em>
   <a href="media/cosmic_web.mp4">Full-resolution video</a>
 </p>
 
