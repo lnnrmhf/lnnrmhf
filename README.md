@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![](media/CROWStacks \Logo.png)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 I am a Masters student of Astronomy at the University of Vienna with a strong interest in computational cosmology and data analysis. I am particularly enthusiastic about
